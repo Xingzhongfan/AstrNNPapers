@@ -1,4 +1,4 @@
-# [Back to Main Page](../README.md)
+# [Back to Main Page](https://github.com/Xingzhongfan/AstrNNPapers/tree/main)
 
 | Title | Publish Time | Mission | Methods | Object |
 |-------|--------------|---------|---------|--------|
