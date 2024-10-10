@@ -32,7 +32,7 @@ The journals included are:
 - **APJS**: 71 papers
 - **RAA**: 36 papers
 
-The editor (Xingzhong Fan) reviewed each paper and selected 1,092 articles that applied neural network methods, categorizing each one based on '**Mission**', '**Methods**', and '**Object**'. 
+The editor (Xingzhong Fan) reviewed each paper and selected 1,092 articles that applied neural network, categorizing each one based on '**Mission**', '**Methods**', and '**Object**'. 
 
 
 ## Categorization of Machine Learning Tasks (Mission)
