@@ -1,3 +1,5 @@
+# [Back to Main Page](../README.md)
+
 | Title | Publish Time | Mission | Methods | Object |
 |-------|--------------|---------|---------|--------|
 | [Physics-informed neural networks in the recreation of hydrodynamic simulations from dark matter](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3381D) | 2024-1-1 | Simulation | PINNS | Dark Matter |
