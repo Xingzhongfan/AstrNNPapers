@@ -1,4 +1,4 @@
-# [Back to Main Page](https://github.com/Xingzhongfan/AstrNNPapers/tree/main)
+# [Back to Main Page](https://github.com/Xingzhongfan/AstrNNPapers)
 
 | Title | Publish Time | Mission | Methods | Object |
 |-------|--------------|---------|---------|--------|
