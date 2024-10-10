@@ -9,7 +9,7 @@ Here is a collection of astronomical papers involving neural network - Version 1
     * [Categorization of Machine Learning Tasks](#categorization-of-machine-learning-tasks-mission)
 
 ## Data Colletion
-The V1 version of the paper collection was compiled by the end of 2023. The collection process was done via [NASA ADS](https://ui.adsabs.harvard.edu/), using an abstract search with the keyword "neural network," with the years set from 2014 to 2024. The collection was filtered for astronomy and limited to refereed publications.
+The V1 version of the paper collection was compiled by the end of 2023. The collection process was done via [NASA ADS](https://ui.adsabs.harvard.edu/), using an abstract search with the keyword "neural network," with the years set from 01/2014 to 01/2024. The collection was filtered for astronomy and limited to refereed publications.
 
 **Search Query:**
 ```bash
