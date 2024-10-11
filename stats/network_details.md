@@ -50,6 +50,7 @@ The table below categorizes the 540 papers based on more specific CNN architectu
 
 ## Detailed internal categorizations of NN
 ![Categorization of NN](../figs/distribution_nn.svg)
+
 The table below categorizes the 339 papers based on more specific NN architectures used:
 
 |           NN Architecture                              | Number of Papers |                  Explanation                        |
@@ -73,7 +74,7 @@ The table below categorizes the 339 papers based on more specific NN architectur
 |           DenseCRF                                     |        1         | Neural network combined with Conditional Random Fields (CRFs) |
 |           GMDH (Group Method of Data Handling)         |        1         | A type of self-organizing neural network             |
 |           DQN (Deep Q-Networks)                        |        1         | A neural network architecture for reinforcement learning |
-|           Deep-SANNE                                   |        1         | A specific neural network architecture for complex tasks |
+|           Deep-SANNE                                   |        1         | Deep Solar ALMA Neural Network Estimator |
 |           Continuous Neural Fields                     |        1         | A model used for continuous data fields              |
 |           ADMM-Net                                     |        1         | Networks using Alternating Direction Method of Multipliers for optimization |
 |           NARX (Nonlinear Autoregressive Exogenous Model)|       1         | A recurrent dynamic model for time-series data       |
