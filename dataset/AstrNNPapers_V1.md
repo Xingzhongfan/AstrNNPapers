@@ -1,4 +1,4 @@
-# [Back to Main Page](https://github.com/Xingzhongfan/AstrNNPapers)
+# [🏠 Back to Main Page](https://github.com/Xingzhongfan/AstrNNPapers)
 
 | Title | Publish Time | Mission | Methods | Object |
 |-------|--------------|---------|---------|--------|
@@ -114,7 +114,7 @@
 | [Delensing of Cosmic Microwave Background Polarization with Machine Learning](https://ui.adsabs.harvard.edu/abs/2023ApJS..267....2Y) | 2023-7-1 | Data Reconstruction | Unet:MIMO-Unet | Cosmology |
 | [Robust Field-level Likelihood-free Inference with Galaxies](https://ui.adsabs.harvard.edu/abs/2023ApJ...952...69D) | 2023-7-1 | Statistical Inference | GNN | Galaxies |
 | [Lensing Reconstruction from the Cosmic Microwave Background Polarization with Machine Learning](https://ui.adsabs.harvard.edu/abs/2023ApJ...952...15Y) | 2023-7-1 | Data Reconstruction | Unet:RDLFUnet | Cosmology |
-| [Pixelated Reconstruction of Foreground Density and Background Surface Brightness in Gravitational Lensing Systems Using Recurrent Inference Machines](https://ui.adsabs.harvard.edu/abs/2023ApJ...951....6A) | 2023-7-1 | Data Reconstruction | CNN:RIM | Gravitational Lenses |
+| [Pixelated Reconstruction of Foreground Density and Background Surface Brightness in Gravitational Lensing Systems Using Recurrent Inference Machines](https://ui.adsabs.harvard.edu/abs/2023ApJ...951....6A) | 2023-7-1 | Data Reconstruction | NN:RIM | Gravitational Lenses |
 | [Multiplicity Boost of Transit Signal Classifiers: Validation of 69 New Exoplanets using the Multiplicity Boost of ExoMiner](https://ui.adsabs.harvard.edu/abs/2023AJ....166...28V) | 2023-7-1 | Data Processing | CNN | Planet |
 | [iNNterpol: High-precision interpolation of stellar atmospheres with a deep neural network using a 1D convolutional auto encoder for feature extraction](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.191W) | 2023-7-1 | Prediction-Regression | CNN | Stars |
 | [Modeling lens potentials with continuous neural fields in galaxy-scale strong lenses](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.125B) | 2023-7-1 | Prediction | NN:continuous neural fields | Gravitational Lenses |
@@ -164,7 +164,7 @@
 | [The resolved chemical composition of the starburst dwarf galaxy CGCG007-025: direct method versus photoionization model fitting](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3576F) | 2023-4-1 | Prediction-Regression | NN | Galaxies |
 | [Euclid preparation - XXIII. Derivation of galaxy physical properties with deep machine learning using mock fluxes and H-band images](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3529E) | 2023-4-1 | Prediction-Regression | CNN | Galaxies |
 | [The miniJPAS survey quasar selection - II. Machine learning classification with photometric measurements and uncertainties](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3494R) | 2023-4-1 | Object Classification | CNN | Quasars |
-| [Stellar classification with convolutional neural networks and photometric images: a new catalogue of 50 million SDSS stars without spectra](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.2269S) | 2023-4-1 | Object Classification | NN:SCNet | Stars |
+| [Stellar classification with convolutional neural networks and photometric images: a new catalogue of 50 million SDSS stars without spectra](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.2269S) | 2023-4-1 | Object Classification | CNN:SCNet | Stars |
 | [Determining satellite infall times using machine learning](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.1704B) | 2023-4-1 | Prediction | NN | Galaxies |
 | [The Evryscope Fast Transient Engine: Real-time Detection for Rapidly Evolving Transients](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...63C) | 2023-4-1 | Object Detection | CNN:VETNET | Transient |
 | [Application of Deep Reinforcement Learning to Major Solar Flare Forecasting](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...34Y) | 2023-4-1 | Prediction | NN:DQN | Solar |

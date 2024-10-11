@@ -1,5 +1,5 @@
-# AstrNNPapers
-Here is a collection of astronomical papers involving neural network - Version 1.0.
+# 🌌AstrNNPapers
+🪐 Here is a collection of astronomical papers involving neural network - Version 1.0.
 
 - The entire dataset can be viewed [here](./dataset/AstrNNPapers_V1.md).
 - Download the CSV format [here](./dataset/AstrNNPapers_V1.csv).
@@ -7,6 +7,7 @@ Here is a collection of astronomical papers involving neural network - Version 1
 - Table-of-Contents
     * [Data Collection](#data-collection)
     * [Categorization of Machine Learning Tasks](#categorization-of-machine-learning-tasks-mission)
+    * [Categorization of Neural Network](#categorization-of-neural-network-methods)
 
 ## Data Colletion
 The V1 version of the paper collection was compiled by the end of 2023. The collection process was done via [NASA ADS](https://ui.adsabs.harvard.edu/), using an abstract search with the keyword "neural network," with the years set from 01/2014 to 01/2024. The collection was filtered for astronomy and limited to refereed publications.
@@ -32,7 +33,7 @@ The journals included are:
 - **APJS**: 71 papers
 - **RAA**: 36 papers
 
-The editor (Xingzhong Fan) reviewed each paper and selected 1,092 articles that applied neural network, categorizing each one based on '**Mission**', '**Methods**', and '**Object**'. 
+🌟🌟🌟 The editor (Xingzhong Fan) reviewed each paper and selected 1,092 articles that applied neural network, categorizing each one based on '**Mission**', '**Methods**', and '**Object**'. 
 
 
 ## Categorization of Machine Learning Tasks (Mission)
@@ -62,3 +63,29 @@ The table below categorizes the 1,092 papers based on their machine learning tas
 |           Domain Adaptation                            |        1         | Adapting models to perform well across different domains |
 
 Some papers involve multiple deep learning tasks and are therefore counted under different categories.
+
+## Categorization of Neural Network (Methods)
+![Categorization of Methods](./figs/distribution_net.svg)
+The table below categorizes the 1,092 papers based on the methods used:
+
+|           Method                                      | Number of Papers |                  Explanation                        |
+|:------------------------------------------------------:|:----------------:|:--------------------------------------------------:|
+|           CNN                                         |        540       | Convolutional Neural Networks, widely used for image data  |
+|           NN                                          |        339       | Neural Networks, general-purpose machine learning models |
+|           Unet                                        |        59        | U-Net, primarily used for image segmentation tasks  |
+|           LSTM                                        |        36        | Long Short-Term Memory, used for sequential data processing |
+|           VAE                                         |        23        | Variational Autoencoders, used for generative models |
+|           AE                                          |        24        | Autoencoders, used for unsupervised learning  |
+|           BNN                                         |        16        | Bayesian Neural Networks, incorporating uncertainty into predictions |
+|           GAN                                         |        21        | Generative Adversarial Networks, used for generative tasks |
+|           PINNs                                       |        10        | Physics-Informed Neural Networks, incorporating physical laws into learning |
+|           GNN                                         |        10        | Graph Neural Networks, used for graph-structured data |
+|           Flow                                        |        11        | Normalizing Flows, used for generative modeling |
+|           Transformer/Attention                       |        9         | Attention-based models, including Transformers |
+|           RNN                                         |        10        | Recurrent Neural Networks, used for sequence modeling |
+|           RL                                          |        2         | Reinforcement Learning, used for decision-making tasks in environments |
+|           Diffusion                                   |        2         | Diffusion models, used for generative tasks |
+
+Some papers involve multiple Neural Network methods and are therefore counted under different categories.
+
+⭐⭐⭐ **For the detailed internal categorization of CNN and NN, see [here](./stats/network_details.md).**

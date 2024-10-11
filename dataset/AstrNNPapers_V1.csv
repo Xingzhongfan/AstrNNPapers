@@ -111,7 +111,7 @@ Distinguishing a planetary transit from false positives: a Transformer-based cla
 Delensing of Cosmic Microwave Background Polarization with Machine Learning,2023-7-1,Data Reconstruction,Unet:MIMO-Unet,Cosmology,https://ui.adsabs.harvard.edu/abs/2023ApJS..267....2Y
 Robust Field-level Likelihood-free Inference with Galaxies,2023-7-1,Statistical Inference,GNN,Galaxies,https://ui.adsabs.harvard.edu/abs/2023ApJ...952...69D
 Lensing Reconstruction from the Cosmic Microwave Background Polarization with Machine Learning,2023-7-1,Data Reconstruction,Unet:RDLFUnet,Cosmology,https://ui.adsabs.harvard.edu/abs/2023ApJ...952...15Y
-Pixelated Reconstruction of Foreground Density and Background Surface Brightness in Gravitational Lensing Systems Using Recurrent Inference Machines,2023-7-1,Data Reconstruction,CNN:RIM,Gravitational Lenses,https://ui.adsabs.harvard.edu/abs/2023ApJ...951....6A
+Pixelated Reconstruction of Foreground Density and Background Surface Brightness in Gravitational Lensing Systems Using Recurrent Inference Machines,2023-7-1,Data Reconstruction,NN:RIM,Gravitational Lenses,https://ui.adsabs.harvard.edu/abs/2023ApJ...951....6A
 Multiplicity Boost of Transit Signal Classifiers: Validation of 69 New Exoplanets using the Multiplicity Boost of ExoMiner,2023-7-1,Data Processing,CNN,Planet,https://ui.adsabs.harvard.edu/abs/2023AJ....166...28V
 iNNterpol: High-precision interpolation of stellar atmospheres with a deep neural network using a 1D convolutional auto encoder for feature extraction,2023-7-1,Prediction-Regression,CNN,Stars,https://ui.adsabs.harvard.edu/abs/2023A&A...675A.191W
 Modeling lens potentials with continuous neural fields in galaxy-scale strong lenses,2023-7-1,Prediction,NN:continuous neural fields,Gravitational Lenses,https://ui.adsabs.harvard.edu/abs/2023A&A...675A.125B
@@ -161,7 +161,7 @@ Noise-Net: determining physical properties of H II regions reflecting observatio
 The resolved chemical composition of the starburst dwarf galaxy CGCG007-025: direct method versus photoionization model fitting,2023-4-1,Prediction-Regression,NN,Galaxies,https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3576F
 Euclid preparation - XXIII. Derivation of galaxy physical properties with deep machine learning using mock fluxes and H-band images,2023-4-1,Prediction-Regression,CNN,Galaxies,https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3529E
 The miniJPAS survey quasar selection - II. Machine learning classification with photometric measurements and uncertainties,2023-4-1,Object Classification,CNN,Quasars,https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3494R
-Stellar classification with convolutional neural networks and photometric images: a new catalogue of 50 million SDSS stars without spectra,2023-4-1,Object Classification,NN:SCNet,Stars,https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.2269S
+Stellar classification with convolutional neural networks and photometric images: a new catalogue of 50 million SDSS stars without spectra,2023-4-1,Object Classification,CNN:SCNet,Stars,https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.2269S
 Determining satellite infall times using machine learning,2023-4-1,Prediction,NN,Galaxies,https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.1704B
 The Evryscope Fast Transient Engine: Real-time Detection for Rapidly Evolving Transients,2023-4-1,Object Detection,CNN:VETNET,Transient,https://ui.adsabs.harvard.edu/abs/2023ApJS..265...63C
 Application of Deep Reinforcement Learning to Major Solar Flare Forecasting,2023-4-1,Prediction,NN:DQN,Solar,https://ui.adsabs.harvard.edu/abs/2023ApJS..265...34Y
@@ -833,7 +833,7 @@ SPCANet: Stellar Parameters and Chemical Abundances Network for LAMOST-II Medium
 Real-time Flare Prediction Based on Distinctions between Flaring and Non-flaring Active Region Spectra,2020-3-1,Prediction,NN:MLP,Solar,https://ui.adsabs.harvard.edu/abs/2020ApJ...891...17P
 Predicting Solar Flares Using a Novel Deep Convolutional Neural Network,2020-3-1,Prediction,CNN,Solar,https://ui.adsabs.harvard.edu/abs/2020ApJ...891...10L
 Detrending Exoplanetary Transit Light Curves with Long Short-term Memory Networks,2020-3-1,Prediction,LSTM,Planet,https://ui.adsabs.harvard.edu/abs/2020AJ....159..109M
- Machine-learning computation of distance modulus for local galaxies,2020-3-1,Prediction-Regression,NN:MLP,Galaxies,https://ui.adsabs.harvard.edu/abs/2020A&A...635A.124E
+" Machine-learning computation of distance modulus for local galaxies",2020-3-1,Prediction-Regression,NN:MLP,Galaxies,https://ui.adsabs.harvard.edu/abs/2020A&A...635A.124E
 Hunting for open clusters in Gaia DR2: 582 new open clusters in the Galactic disc,2020-3-1,Object Detection,CNN,Star Clusters,https://ui.adsabs.harvard.edu/abs/2020A&A...635A..45C
 Deep residual detection of radio frequency interference for FAST,2020-2-1,Object Detection,Unet,Instruments/Software/Methods,https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1421Y
 Information theoretic bounds on cosmic string detection in CMB maps with noise,2020-2-1,Object Detection,CNN:ResNet,Cosmology,https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1329C
