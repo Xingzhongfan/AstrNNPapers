@@ -10,6 +10,10 @@
     * [🔭 Categorization of Astronomical Research Focus](#categorization-of-astronomical-research-focus)
     * [📈 Yearly Publication Trend and Analysis](#yearly-publication-trend-analysis)
 
+### Usage Recommendations:
+- **🌃 For Astronomers**: You can gain insights from the papers on how neural networks are applied in astronomy, such as galaxy classification or transient detection.
+- **💻 For AI Researchers**: You can use this dataset to train or fine-tune LLMs for astronomy-related tasks, or as a specialized dataset for expert knowledge annotation in AI4Sci research.
+
 <h2 id="data-collection">📊 Data Collection</h2>
 
 The V1 version of the paper collection was compiled by the end of 2023. The collection process was done via [NASA ADS](https://ui.adsabs.harvard.edu/), using an abstract search with the keyword "neural network," with the years set from 01/2014 to 01/2024. The collection was filtered for astronomy and limited to refereed publications.
