@@ -149,3 +149,9 @@ Starting in 2021, the growth rate of publications began to slow, as researchers 
 
 ### Stage V: 2024 and Beyond — 🌐 Exploration of LLMs and Multimodal Models
 Starting in 2024, it is noteworthy that deep learning in astronomy will further develop towards **Large Language Models (LLMs)** and multimodal foundational models. LLMs can create new applications, such as integrating expert knowledge to help researchers build intelligent agents, improving the efficiency of handling complex tasks. Meanwhile, multimodal foundational models can process various types of data, such as images, spectra, and time series, enhancing the model's generalization ability and solving more general tasks.
+
+## 📜 License
+This project is licensed under the [Apache License 2.0](./LICENSE).
+
+## 📧 Contact
+For any questions or suggestions, feel free to reach out via [Email](mailto:xf22@illinois.edu).
