@@ -82,7 +82,7 @@
 | [TAU: A neural network based telluric correction framework](https://ui.adsabs.harvard.edu/abs/2023A&A...677A.120K) | 2023-9-1 | Data Processing | AE | Planet |
 | [YOLO-CL: Galaxy cluster detection in the SDSS with deep machine learning](https://ui.adsabs.harvard.edu/abs/2023A&A...677A.101G) | 2023-9-1 | Object Detection | CNN:YOLO | Galaxies |
 | [ExoplANNET: A deep learning algorithm to detect and identify planetary signals in radial velocity data](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..48N) | 2023-9-1 | Object Detection | NN | Planet |
-| [Understanding of the properties of neural network approaches for transient light curve approximations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..16D) | 2023-9-1 | Simulation | Cosmology | Stars |
+| [Understanding of the properties of neural network approaches for transient light curve approximations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..16D) | 2023-9-1 | Simulation | NN+BNN+Flow | Stars |
 | [Attention-Based Deep Learning Model for Image Desaturation of SDO/AIA](https://ui.adsabs.harvard.edu/abs/2023RAA....23h5004Z) | 2023-8-1 | Image Restoration | CNN:AANet | Solar |
 | [Probing cosmological particle production and pairwise hotspots with deep neural networks](https://ui.adsabs.harvard.edu/abs/2023PhRvD.108d3525K) | 2023-8-1 | Object Detection | CNN | Cosmology |
 | [Decoding neutron star observations: Revealing composition through Bayesian neural networks](https://ui.adsabs.harvard.edu/abs/2023PhRvD.108d3031C) | 2023-8-1 | Statistical Inference | BNN | Stars |
