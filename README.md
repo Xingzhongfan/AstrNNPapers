@@ -5,13 +5,13 @@
 - Download the CSV format [here](./dataset/AstrNNPapers_V1.csv).
 
 - Table-of-Contents
-    * [Data Collection](#data-collection)
-    * [Categorization of Machine Learning Tasks](#categorization-of-machine-learning-tasks-mission)
-    * [Categorization of Neural Network](#categorization-of-neural-network-methods)
-    * [Categorization of Astronomical Research Focus](#categorization-of-astronomical-research-focus-objects)
-    * [Yearly Publication Trend (Analysis)](#-yearly-publication-trend-analysis)
+    * [📊Data Collection](#📊-data-collection)
+    * [🧠Categorization of Machine Learning Tasks](#🧠-categorization-of-machine-learning-tasks-mission)
+    * [🤖Categorization of Neural Network](#🤖-categorization-of-neural-network-methods)
+    * [🔭Categorization of Astronomical Research Focus](#🔭-categorization-of-astronomical-research-focus-objects)
+    * [📈Yearly Publication Trend and Analysis](#📈-yearly-publication-trend-analysis)
 
-## Data Colletion
+## 📊 Data Colletion
 The V1 version of the paper collection was compiled by the end of 2023. The collection process was done via [NASA ADS](https://ui.adsabs.harvard.edu/), using an abstract search with the keyword "neural network," with the years set from 01/2014 to 01/2024. The collection was filtered for astronomy and limited to refereed publications.
 
 **Search Query:**
@@ -38,7 +38,7 @@ The journals included are:
 🌟🌟🌟 The editor (Xingzhong Fan) reviewed each paper and selected 1,091 articles that applied neural network, categorizing each one based on '**Mission**', '**Methods**', and '**Object**'. 
 
 
-## Categorization of Machine Learning Tasks (Mission)
+## 🧠 Categorization of Machine Learning Tasks (Mission)
 ![Categorization of Machine Learning Tasks](./figs/distribution_mission.svg)
 The table below categorizes the 1,091 papers based on their machine learning tasks:
 |           Task Category                                | Number of Papers |                  Explanation                        |
@@ -66,7 +66,7 @@ The table below categorizes the 1,091 papers based on their machine learning tas
 
 Some papers involve multiple deep learning tasks and are therefore counted under different categories.
 
-## Categorization of Neural Network (Methods)
+## 🤖 Categorization of Neural Network (Methods)
 ![Categorization of Methods](./figs/distribution_net.svg)
 The table below categorizes the 1,091 papers based on the methods used:
 
@@ -92,7 +92,7 @@ Some papers involve multiple Neural Network methods and are therefore counted un
 
 ⭐⭐⭐ **For the detailed internal categorization of CNN and NN, see [here](./stats/network_details.md).**
 
-## Categorization of Astronomical Research Focus (Objects)
+## 🔭 Categorization of Astronomical Research Focus (Objects)
 ![Categorization of Methods](./figs/distribution_object.svg)
 The table below categorizes the 1,091 papers based on their primary astronomical research focus:
 |           Research Focus                              | Number of Papers |                  Explanation                        |
@@ -114,7 +114,7 @@ The table below categorizes the 1,091 papers based on their primary astronomical
 |           Dark Matter                                 |        7         | A form of matter thought to account for approximately 85% of the matter in the universe, detectable through its gravitational effects |
 |           High Energy                                 |        20        | The study of astrophysical phenomena involving high-energy radiation such as X-rays, gamma rays, and cosmic rays |
 
-## 📈Yearly Publication Trend (Analysis)
+## 📈 Yearly Publication Trend (Analysis)
 When collecting the data, there were only 10 papers from January 2024. For ease of visualization, we have included all of them in 2023. Additionally, for papers that involve multiple methods, we have selected only the primary method.
 ![Yearly Publication Trend](./figs/yearly_method_trend_with_method.png)
 The table below shows the number of papers published each year from 01/2014 to 01/2024:
