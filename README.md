@@ -12,7 +12,7 @@
 
 ### Usage Recommendations:
 - **🌃 For Astronomers**: You can gain insights from the papers on how neural networks are applied in astronomy, such as galaxy classification or transient detection.
-- **💻 For AI Researchers**: You can use this dataset to train or fine-tune LLMs for astronomy-related tasks, or as a specialized dataset for expert knowledge annotation in AI4Sci research.
+- **💻 For AI Researchers**: You can use this dataset to train or fine-tune LLMs for astronomy-related tasks, or as a curated dataset for expert knowledge annotation in AI4Sci research.
 
 <h2 id="data-collection">📊 Data Collection</h2>
 
@@ -142,8 +142,8 @@ The table below shows the number of papers published each year from 01/2014 to 0
 ### Stage I: 2014-2016 — 🌱 Initial Application of Shallow Neural Networks
 From 2014 to 2016, the neural networks introduced in astronomy were mostly shallow networks, typically with fewer than three layers and only a few dozen neurons. During this stage, neural networks did not have an advantage over traditional machine learning methods, such as support vector machines (SVM) and random forests.
 
-### Stage II: 2017-2018 — 🧱 Adoption of Basic CNNs and Conv1D
-From 2017 to 2018, basic Convolutional Neural Networks (CNNs) were introduced and widely applied to image processing tasks. Conv1D was also used for handling time series data during this period. The complexity and parameter size of the networks increased significantly, and their performance began to rival traditional machine learning methods.
+### Stage II: 2017-2018 — 🧱 Adoption of Basic CNNs and MLPs
+From 2017 to 2018, basic Convolutional Neural Networks (CNNs) were introduced and widely applied to image processing tasks. Conv1D was also used for handling series data during this period. The complexity and parameter size of the networks increased significantly, and their performance began to rival traditional machine learning methods.
 
 ### Stage III: 2019-2020 — 🚀 Explosion of Deep Learning Applications
 By 2019, the application of deep learning in astronomy entered a period of explosive growth. The key feature of this stage was the increasing use of deep learning to tackle tasks that traditional machine learning struggled with, such as complex image classification, object detection, and time series forecasting. During this period, we observed that CNN and NN architectures became more complex, with deeper networks and more layers, especially in handling large-scale astronomical datasets, where deep learning demonstrated significant potential. Models like **RNN** and **LSTM** also began to be applied for sequence data processing. Additionally, researchers started exploring explainable neural networks, such as **Bayesian Neural Networks (BNNs)**, providing astronomers with models capable of uncertainty estimation.  Furthermore, generative models like **VAE**, **GAN**, and **Flow** were introduced for tasks such as data generation and reconstruction. The significant increase in publications in 2019 and 2020 marked the widespread adoption of deep learning technologies in astronomy.
